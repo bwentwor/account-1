@@ -246,7 +246,7 @@ You can change your personal information, such as name, email, or phone number, 
 {: faq}
 {: support}
 
-The language that is used is based on your web browser settings. To view content in your native language, update your browser's language settings.
+The language that is used is based on your web browser settings. To view content in your native language, update your browser's language settings. The language for specific pages cannot differ from your browser's language settings. 
 
 ## Does {{site.data.keyword.Bluemix_notm}} support batch registration of users?
 {: #batch-registration}
