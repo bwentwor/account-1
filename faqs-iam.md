@@ -108,7 +108,7 @@ In the console, go to **Manage > Access (IAM) > API keys** to view and manage AP
 {: #service-credentials}
 {: faq}
 
-To view an existing service credential for a service, go to your resource list by clicking the **Menu icon  ![Menu icon](../icons/icon_hamburger.svg)** > **Resource list**, then select the name of the service to open its details. Click **Service credentials** to view the details.
+To view an existing service credential for a service, go to your resource list by clicking the **Menu icon  ![Menu icon](../icons/icon_hamburger.svg)** > **Resource list**, then select the name of the service to open its details. Click **Service credentials** to view the details. To save a copy of the service credentials, most services provide a Download link or an icon to copy the credentials to your clipboard. 
 
 ## Why use resource groups and access groups?
 {: #resource-groups}
