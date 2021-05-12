@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
   
-lastupdated: "2021-02-25"
+lastupdated: "2021-05-12"
 
 keywords: account settings, delete account, account errors, reassign account, view tags, batch registration, transfer account ownership, upgrade, convert, trial, Lite
 
@@ -188,7 +188,9 @@ If you believe that your account was deactivated in error, contact support by ca
 {: #contactsupport}
 {: faq}
 
-From the console menu bar, click **Support** to go to the Support Center and to view your current support plan. For more information, see [Getting support](/docs/get-support?topic=get-support-support-plans).
+Go to the [Support Center](https://{DomainName}/unifiedsupport/supportcenter){: external}[Support](https://{DomainName}/billing/promotions) page in the console. From there, review the list of common FAQs. If you don't find the answers that you need, see the **Contact Support** section to contact IBM Cloud Support.
+
+For information on our account types and support offerings, see [Getting support](/docs/get-support?topic=get-support-support-plans).
 
 ## Can I view a list of accounts that I own?
 {: #accounts-owned}
