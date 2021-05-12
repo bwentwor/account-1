@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
   
-lastupdated: "2021-02-25"
+lastupdated: "2021-05-12"
 
 keywords: account settings, delete account, account errors, reassign account, view tags, batch registration, transfer account ownership, upgrade, convert, trial, Lite
 
@@ -80,9 +80,11 @@ Yes, when you upgrade to a Pay-As-You-Go or Subscription account, you can contin
 
 Yes, the following options are available depending on your account type:
 
-* You can convert your trial account to a Lite account by providing the email address that's associated with your IBMid at https://cloud.ibm.com/registration/startUpgradeToLite.
+* You can convert your trial account to a Lite account by providing the email address that's associated with your IBMid at https://cloud.ibm.com/registration/startUpgradeToLite and following the prompts. A risk of data or function loss exists when you convert between these two account types. Some specific data or function allocations in your trial account might not be applicable to a Lite account. Any loss of data or function is unrecoverable after the conversion process is completed. Also you cannot convert your trial account to a Lite account if you have multiple organizations in your account. In these situations, you must register for a new account using a different email address.
 * If you have a feature code from an online course or educational event, you can use it to convert your Lite account to a trial account. Go to the [Account settings](https://{DomainName}/account/settings){: external} page in the console to apply the code to your account.
 * To convert your Pay-As-You-Go account to a Subscription account, contact [{{site.data.keyword.Bluemix_notm}} Sales](https://cloud.ibm.com/catalog?contactmodule){: external}.
+
+Note: If you upgrade your trial account to a Pay-As-You-Go account by entering a credit card, it cannot be converted back to a trial account or converted to a Lite account.
 
 ## Can I sign up for a free trial?
 {: #freetrial}
@@ -178,9 +180,9 @@ To understand how {{site.data.keyword.IBM_notm}} handles your personal informati
 
 Your account might be deactivated for the following reasons:
 
-- For trial accounts, the trial period ended. To reactivate your account, log in to your account and upgrade it to a Pay-As-You-Go account. Your account might take a few days to fully reactivate.
+- For trial accounts, the trial period ended. To reactivate your account, log in to your account and upgrade it to a Pay-As-You-Go account.
 - An authorized user canceled the account.
-- The account is suspended. At the discretion of {{site.data.keyword.IBM_notm}}, accounts that violate the acceptable usage behaviors of the {{site.data.keyword.Bluemix_notm}} services can be disabled without notice. Some services can be restored if users correct their usage behaviors after they're notified of the offensive action.
+- The account is suspended. At the discretion of {{site.data.keyword.IBM_notm}}, accounts that violate the acceptable usage behaviors of the {{site.data.keyword.Bluemix_notm}} services can be disabled without notice. Some services can be restored if users correct their usage behavior after they're notified of the offensive action.
 
 If you believe that your account was deactivated in error, contact support by calling 1-866-325-0045 and selecting the third option.
 
